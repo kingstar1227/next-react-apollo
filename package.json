@@ -76,7 +76,7 @@
     "jest": "24.7.1",
     "next-optimized-images": "2.4.0",
     "next-plugin-graphql": "^0.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.11",
     "prettier": "^1.17.0",
     "prop-types": "^15.7.2",
