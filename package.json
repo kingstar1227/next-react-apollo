@@ -82,7 +82,7 @@
     "prop-types": "^15.7.2",
     "react-test-renderer": "16",
     "responsive-loader": "^1.2.0",
-    "sharp": "^0.22.0",
+    "sharp": "^0.30.5",
     "sw-precache-webpack-plugin": "^0.11.5",
     "webp-loader": "^0.4.0",
     "webpack-bundle-size-analyzer": "^3.0.0"
